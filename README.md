@@ -7,6 +7,8 @@ Read the wiki for a more in depth documentation.
 
 To create a game edit the "GAME.py" module according to your needs, at the moment this is very primitive.
 
+__I haven't really done much research into the effect's of discord.py's archivation, at the moment nextcord.py seems to be maintained and functional. Open to suggestions.__ 
+
 Example Game:
 ```py
 main = [
